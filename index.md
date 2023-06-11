@@ -1,1 +1,1 @@
-#Dbad takeover your subdmain
+takeover subdomain PoC by Dbad
